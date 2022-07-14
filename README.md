@@ -13,9 +13,6 @@ Termux-Extra-Keys is a tool used to add extra keys in termux.
 
 
 
-
-
-
 <b>Installation</b>
 ```
 $ pkg update
@@ -24,6 +21,6 @@ $ pkg install python
 $ pkg install python2
 $ pkg install git
 $ git clone https://github.com/farhanaliofficial/Termux-Extra-Keys
-$ cd ASCII
+$ cd Termux-Extra-Keys
 $ python2 main.py
 ```
