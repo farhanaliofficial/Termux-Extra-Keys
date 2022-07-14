@@ -1,5 +1,5 @@
 # Termux-Extra-Keys
-ASCII is a tool used to create ascii text logo for termux scripts.
+Termux-Extra-Keys is a tool used to add extra keys in termux.
 
 </br><br>
 [![GitHub](https://img.shields.io/badge/GitHub-Farhan%20Ali-blue)](https://github.com/farhanaliofficial/)<br>
